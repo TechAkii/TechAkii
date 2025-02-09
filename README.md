@@ -10,13 +10,13 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 # 💫 About Me:
-🔹 First-Year Applied Science Student at Rajarata University of Sri Lanka
-🔹 Studying Mathematics, Computer Science, and Statistics
+🔹 First-Year Applied Science Student at Rajarata University of Sri Lanka<br>
+🔹 Studying Mathematics, Computer Science, and Statistics<br>
 
-🔭 Currently learning programming and statistical analysis
-👯 Open to collaborating on projects related to data science and AI
-🌱 Focused on improving my skills in programming
-💬 Feel free to ask about math, programming, or anything I’m currently learning
+🔭 Currently learning programming and statistical analysis<br>
+👯 Open to collaborating on projects related to data science and AI<br>
+🌱 Focused on improving my skills in programming<br>
+💬 Feel free to ask about math, programming, or anything I’m currently learning<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ur.akii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akila-Thikshana) 
