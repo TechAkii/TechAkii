@@ -10,8 +10,13 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 # 💫 About Me:
-<br>🔹 Undergraduate Applied Science Student | Rajarata University of Sri Lanka<br>🔹 Specializing in Mathematics, Computer Science, and Statistics<br><br>🔭 I’m currently working on improving my skills in programming and statistical analysis.<br>👯 I’m looking to collaborate on data science and AI-related projects.<br>🤝 I’m looking for help with mastering machine learning algorithms and advanced programming concepts.<br>🌱 I’m currently learning C programming, real analysis, and statistical modeling.<br>💬 Ask me about Mathematics, AI concepts, and problem-solving techniques.<br>⚡ Fun fact: I’m a carrom enthusiast who loves exploring the intersection of math and technology!
+🔹 First-Year Applied Science Student at Rajarata University of Sri Lanka
+🔹 Studying Mathematics, Computer Science, and Statistics
 
+🔭 Currently learning programming and statistical analysis
+👯 Open to collaborating on projects related to data science and AI
+🌱 Focused on improving my skills in programming
+💬 Feel free to ask about math, programming, or anything I’m currently learning
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ur.akii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akila-Thikshana) 
