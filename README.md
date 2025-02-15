@@ -65,6 +65,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/akila-thikshana-22290a346/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="akilathikshana" height="50" width="50" /></a>
 <a href="https://www.instagram.com/its_ur.akii/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="its_ur.akii" height="50" width="50" /></a>
+<a href="https://www.x.com/TechAkii/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8ea60d6c-0bd1-478e-b4b7-3d7473fde6ae" alt="TechAkii" height="50" width="50" /></a>
+</p>
 </p>
 
 ---
