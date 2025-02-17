@@ -19,7 +19,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning **PYTHON and JAVASCRIPT**
 
 - 🧑‍🎓 I’m an Undergraduate at **RUSL**
 
