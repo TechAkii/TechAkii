@@ -18,11 +18,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **C++ and PYTHON and JAVASCRIPT**
+- 🌱 I’m currently learning **PYTHON and JAVA**
 
 - 🧑‍🎓 I’m an Undergraduate at **RUSL**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C, C++, html, CSS, Python**
 
 - 📫 How to reach me **akilatheakshana.2003@gmail.com**
   
