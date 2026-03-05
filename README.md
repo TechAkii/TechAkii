@@ -14,17 +14,6 @@
 <h3 align="center">Passionate CS Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TechAkii&label=Profile%20views&color=0e75b6&style=flat" alt="TechAkii" /> </p>
 
-<table align="center">
-<tr border="none">
-
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
-
-  
-  </td>
-</tr>
-</table>
 
 ---
 
