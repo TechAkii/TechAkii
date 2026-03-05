@@ -17,16 +17,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-- 🌱 I’m currently learning **PYTHON and JAVA**
-
-- 🧑‍🎓 I’m an Undergraduate at **RUSL**
-
-- 💬 Ask me about **C, C++, html, CSS, Python**
-
-- 📫 How to reach me **akilatheakshana.2003@gmail.com**
-  
-- ⚡ Fun fact **Call me as Akii**
 
 </td>
 <td width="50%" align="center">
