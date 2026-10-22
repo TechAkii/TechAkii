@@ -1,22 +1,4 @@
 <h1 align="center">Hi , I'm Akila Thikshana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
-
-<p align="center">
-  <a href="https://github.com/akilathikshana/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=RUSL;Applied+Science+Student;Computer+Science+Student;Industrial+Mathematics+student;Statistics+Learner;Always+learning+new+things"></a>
-</p>
-
-
-
-
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-
-<h3 align="center">Passionate CS Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TechAkii&label=Profile%20views&color=0e75b6&style=flat" alt="TechAkii" /> </p>
-
-
----
-
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
