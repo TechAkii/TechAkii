@@ -103,6 +103,8 @@ current_mindset: "Learn deeply. Build consistently."
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
 </a>
 
+
+
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:050816&height=110&section=footer" width="100%" alt="Blue footer banner"/>
