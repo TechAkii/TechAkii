@@ -109,7 +109,7 @@ current_mindset: "Learn deeply. Build consistently."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:050816&height=110&section=footer" width="100%" alt="Blue footer banner"/>
 
-<sub>Designed with curiosity, built with code. © Akila Thikshana</sub>
+<sub> © Akila Thikshana</sub>
 
 </div>
 
