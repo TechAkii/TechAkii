@@ -87,7 +87,6 @@ current_mindset: "Learn deeply. Build consistently."
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechAkii&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=818CF8&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -103,9 +102,7 @@ current_mindset: "Learn deeply. Build consistently."
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
 </a>
 
-
-
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:050816&height=110&section=footer" width="100%" alt="Blue footer banner"/>
 
