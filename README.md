@@ -92,6 +92,11 @@ current_mindset: "Learn deeply. Build consistently."
 
 ---
 
+##  My GitHub Contributions
+
+<img src="https://ghchart.rshah.org/1f6feb/TechAkii" alt="TechAkii's blue GitHub contribution graph" width="100%"/>
+
+
 
 **Have an interesting project or idea? Let's connect.**
 
