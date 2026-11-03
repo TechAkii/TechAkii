@@ -32,8 +32,7 @@ university: Rajarata University of Sri Lanka
 interests:
   - Full-Stack Development
   - Software Engineering
-  - Data Structures & Algorithms
-  - Statistical Computing
+  - cyber security
   - Computer Vision
 current_mindset: "Learn deeply. Build consistently."
 ```
